@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **ML and AI**
 
-- 📫 How to reach me **sakshigolatkar2486@gmail.com**
 
 - ⚡ Fun fact **I like cats and cat posts**
 
