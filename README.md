@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **ML and AI**
 
 
-- ⚡ Fun fact **I like cats and cat posts**
+- ⚡ Fun fact **I like cats & cat posts.PS:I drink coffee w/o sugar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
