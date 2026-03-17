@@ -7,6 +7,7 @@
 
 - 🌱 I’m currently learning **ML and AI**
 
+- 👨‍💻 All of my projects are available at [https://sakshi-2486.vercel.app](https://sakshi-2486.vercel.app)
 
 - ⚡ Fun fact **I like cats & cat posts.PS:I drink coffee w/o sugar.**
 
