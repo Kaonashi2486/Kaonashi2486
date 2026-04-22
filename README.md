@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🌱 I’m currently looking for open source to contribute in
+- 🌱 I’m currently looking for open-source projects to contribute to.
 - 👨‍💻 All of my projects are available at https://sakshi-2486.vercel.app
 - ⚡ Fun fact I like cats & cat posts.PS:I drink coffee w/o sugar.
 
